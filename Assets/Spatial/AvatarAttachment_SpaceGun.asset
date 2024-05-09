@@ -16,6 +16,7 @@ MonoBehaviour:
   sku: 
   packageName: Space Gun
   thumbnail: {fileID: 2800000, guid: 4b125fed008194698825974a3569a074, type: 3}
-  savedProjectSettings: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
   prefab: {fileID: 8728467092330814728, guid: 450ad2fc1d8764c6790f3cb94624afb7, type: 3}
   usageContext: 1
