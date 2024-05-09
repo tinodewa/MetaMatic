@@ -885,11 +885,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 157d29f2-0081-45d5-a423-edfd21e3f16b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: MetaMatic
+  organizationId: tinodewa
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
