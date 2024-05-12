@@ -15,7 +15,7 @@ MonoBehaviour:
   version: 1
   sku: 
   packageName: Space_1
-  thumbnail: {fileID: 0}
+  thumbnail: {fileID: 2800000, guid: dad227b57dcf8e5488bd23e8c9f68f91, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: ae63f4f3c0a62944db8fe2db388ca9bc,
     type: 2}
   worldID: 
