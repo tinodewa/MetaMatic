@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 033225253f41a7940b017ca3a22e6072
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Alcantara
+    second: {fileID: 2100000, guid: d357056495f7e7245aeac9663e47b97b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Badge
+    second: {fileID: 2100000, guid: 99bda2db46228014ca92005468b96304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.BlackGloss
+    second: {fileID: 2100000, guid: 418fba1ebd2dd2f44a695e8d5bf570a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.BrakeCaliper
+    second: {fileID: 2100000, guid: 338e33a940af9e54293765804173e2cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.BrakeDisc
+    second: {fileID: 2100000, guid: 055b9688acac5514e837e24ac1713aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.BrakeLight
+    second: {fileID: 2100000, guid: 5b02c59750a69384088c3dee4847e144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Brembo
+    second: {fileID: 2100000, guid: 5117fb63e0b510441bc4ab214e05133e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Brown
+    second: {fileID: 2100000, guid: 5977a28b92ea82a4fa39456313445fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Carbon
+    second: {fileID: 2100000, guid: 26c50f713135c004e83f65bb4cb3dd7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Carpet
+    second: {fileID: 2100000, guid: 496190a766037714a8a74085906fdef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Chrome
+    second: {fileID: 2100000, guid: 595a037c7a2725a4eb6cb54e20a096de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Glass
+    second: {fileID: 2100000, guid: 9111f8b2d2e4c9c4b94dd544fcd06b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Grille
+    second: {fileID: 2100000, guid: 72c3e19340c715144bb09f2e7570075e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Headlight
+    second: {fileID: 2100000, guid: 75bc8e189062b4f458c572cb462a6222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.HeadlightGlass
+    second: {fileID: 2100000, guid: 6194968ac87d0fe4d834ec9d005057a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Interior
+    second: {fileID: 2100000, guid: df489ac4024128a47b37c6ff8f53c2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.LCD
+    second: {fileID: 2100000, guid: 47fad45f70c3417448a4ebda4a8cd01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Leather
+    second: {fileID: 2100000, guid: 062d164269869b84382c774663338ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Leather.Perforated
+    second: {fileID: 2100000, guid: 69b53095dc63488478815bb201d508bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.LeatherStiching
+    second: {fileID: 2100000, guid: 89532a2a06a692e418ae27d152db4fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Lights
+    second: {fileID: 2100000, guid: 474bec6a822c6444ba5a6f77300670d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Misc
+    second: {fileID: 2100000, guid: bf125fa20bb72a9408176d22f735c90e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Misc2
+    second: {fileID: 2100000, guid: 95e587b1012af7d40af6b10116cfbd4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Paint
+    second: {fileID: 2100000, guid: 6a41c03f4fc3f8c4ea0ac2322bbc2d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Plastic
+    second: {fileID: 2100000, guid: 8ee2da07bacc3fd44b3130930abacd5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.PlasticStiching
+    second: {fileID: 2100000, guid: 3a47a5f4a5cf9d740a4ec8d7eab5a012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.ReverseLight
+    second: {fileID: 2100000, guid: 95727e402f2b07241a2b92fbd041ff67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Rims
+    second: {fileID: 2100000, guid: 8f932058cb5ba1647818d1a73052aedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Rollcage
+    second: {fileID: 2100000, guid: e0ab1c93246d38f4291e31f37bab5609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Runninglight
+    second: {fileID: 2100000, guid: e0fc2016b18606341a186dd84d037537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Screen
+    second: {fileID: 2100000, guid: 06aef261b34e35f409e133400712ffe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Signal.L
+    second: {fileID: 2100000, guid: 8154a72ca33ab284296bb6205069a39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Signal.R
+    second: {fileID: 2100000, guid: 467482a2f6a606e48819063a4775c0db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Steeringwheel
+    second: {fileID: 2100000, guid: 6059ce98c2b874746870281379a26b58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Taillights
+    second: {fileID: 2100000, guid: 398762802fa40ee46926ba7ea17baa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Tire
+    second: {fileID: 2100000, guid: d46a0d0c281452e47b8caea83a756f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT500.Window
+    second: {fileID: 2100000, guid: c54b6cf68e6b5304b8a30796c50497d9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
