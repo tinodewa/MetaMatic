@@ -25,4 +25,4 @@ MonoBehaviour:
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
-    serverInstanceCapacity: 16
+    serverInstanceCapacity: 50
