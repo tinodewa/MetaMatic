@@ -15,10 +15,10 @@ MonoBehaviour:
   version: 1
   sku: 
   packageName: exhibition
-  thumbnail: {fileID: 0}
+  thumbnail: {fileID: 2800000, guid: 1b8f5ffd0a15443b394c6dd980500183, type: 3}
   savedProjectSettings: {fileID: 0}
   worldID: 
-  scene: {fileID: 0}
+  scene: {fileID: 102900000, guid: 623b6ff59be48df4d9789eb1cde9bccc, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   settings:
