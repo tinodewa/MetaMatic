@@ -13,15 +13,16 @@ MonoBehaviour:
   m_Name: Space_2
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 665ab15024cde6462e87ceb3
   packageName: exhibition
   thumbnail: {fileID: 2800000, guid: 1b8f5ffd0a15443b394c6dd980500183, type: 3}
-  savedProjectSettings: {fileID: 0}
-  worldID: 
+  savedProjectSettings: {fileID: 11400000, guid: ae63f4f3c0a62944db8fe2db388ca9bc,
+    type: 2}
+  worldID: u62hsq8e8h3vudxgv0vmu
   scene: {fileID: 102900000, guid: 623b6ff59be48df4d9789eb1cde9bccc, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
-    serverInstanceCapacity: 16
+    serverInstanceCapacity: 50
