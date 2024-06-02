@@ -15,7 +15,7 @@ MonoBehaviour:
   version: 1
   sku: 665ab15024cde6462e87ceb3
   packageName: exhibition
-  thumbnail: {fileID: 2800000, guid: 1b8f5ffd0a15443b394c6dd980500183, type: 3}
+  thumbnail: {fileID: 2800000, guid: db23e0a71b7a59247900c7d85a4a1e43, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: ae63f4f3c0a62944db8fe2db388ca9bc,
     type: 2}
   worldID: u62hsq8e8h3vudxgv0vmu
