@@ -22,6 +22,7 @@ MonoBehaviour:
   scene: {fileID: 102900000, guid: 623b6ff59be48df4d9789eb1cde9bccc, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
+  networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
