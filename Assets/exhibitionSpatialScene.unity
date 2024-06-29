@@ -188,7 +188,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -379,7 +379,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -635,7 +635,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -751,7 +751,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -831,7 +831,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -903,7 +903,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -1010,7 +1010,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -1090,7 +1090,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -2105,7 +2105,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -2161,7 +2161,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.4}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -2510,7 +2510,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3352,7 +3352,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3434,7 +3434,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3625,7 +3625,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3711,7 +3711,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3793,7 +3793,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3875,7 +3875,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -3998,7 +3998,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -4168,7 +4168,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -4494,7 +4494,7 @@ MonoBehaviour:
     overrideFont: 0
     font: {fileID: 0}
     material: {fileID: 0}
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0.88235295}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: 0}
   spriteSize: 0.75
@@ -5273,7 +5273,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2346596572512718098
 Transform:
   m_ObjectHideFlags: 0
