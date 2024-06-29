@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dual-flow Radiator
+* source:	https://sketchfab.com/3d-models/dual-flow-radiator-c636a988e9974ba28b2a4beb6679f589
+* author:	Steven Samuel (https://sketchfab.com/spsvision)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dual-flow Radiator" (https://sketchfab.com/3d-models/dual-flow-radiator-c636a988e9974ba28b2a4beb6679f589) by Steven Samuel (https://sketchfab.com/spsvision) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
