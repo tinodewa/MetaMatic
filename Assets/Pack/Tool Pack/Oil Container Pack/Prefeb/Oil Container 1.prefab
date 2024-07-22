@@ -211,7 +211,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactText: Grab
+  interactText: Ambil
   textFontOverride:
     overrideFont: 0
     font: {fileID: 0}
@@ -311,7 +311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactText: Pour
+  interactText: Tuang
   textFontOverride:
     overrideFont: 0
     font: {fileID: 0}
@@ -418,7 +418,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8286951412872553839
 Transform:
   m_ObjectHideFlags: 0
@@ -577,7 +577,7 @@ MonoBehaviour:
     - {fileID: 8397967670544582742}
     - {fileID: 8397967671254841929}
     - {fileID: 8668016186799226847}
-    - {fileID: 3812927243190827563, guid: a1b5338c0fce3c245851101ebc8623d2, type: 3}
+    - {fileID: 8668016186799226837}
 --- !u!1 &8699134574475574447
 GameObject:
   m_ObjectHideFlags: 0
